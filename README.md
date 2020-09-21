@@ -1,16 +1,11 @@
-### Hi there 👋
+### I'm a Full-Stack Developer based in London, United Kingdom 🇬🇧
 
-<!--
-**MrShaunLennon/MrShaunLennon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏻‍💻 **I'm currently looking for a position in London or Berlin**
+- 💻 I like to use <code>.js</code>, <code>.rb</code>, <code>.html</code>, <code>.css</code>
+- 👨‍🎓 I’m currently learning <code>.jsx</code>, <code>.py</code>
+- 📚 I like **gaming**, **travelling** and **reading** in my spare time.
+- 👨🏻‍💼 Find me on **LinkedIn** [here](https://www.linkedin.com/in/mrshaunlennon/)
+- 🗣 Please message me if you would like to **collaborate**
+- 🙆‍♂️ My pronouns are **he/him**
+- 🍣 My favourite cuisine is **Japanese**
+- 🌎 Fun fact: I have been to over **50 countries**
