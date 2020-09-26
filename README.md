@@ -4,7 +4,7 @@
 - 💻 I like to use <code>.jsx</code>, <code>.js</code>, <code>.rb</code>, <code>.html</code>, <code>.css</code>
 - 👾 I enjoy creating games with **JavaScript** in my spare time.
 - 💡 I like **travelling**, **gaming** and **reading** about personal development.
-- 📚 I am very open and intrigued about learning **new** and **emerging technologies**.
+- 📚 I am open to learning about **new** and **emerging technologies**.
 - 👨🏻‍💼 Find me on **LinkedIn** [here](https://www.linkedin.com/in/mrshaunlennon/)
 - 🗣 I am also available for **freelance** projects and/or **collaborations**
 - 📩 My email address is **shaunlennon1992@gmail.com**
