@@ -2,7 +2,6 @@
 
 - 👨🏻‍💻 **I'm currently looking for a position in London or Berlin**
 - 💻 I like to use <code>.jsx</code>, <code>.js</code>, <code>.rb</code>, <code>.html</code>, <code>.css</code>
-- 👾 I enjoy creating games with **JavaScript** in my spare time.
 - 💡 I like **travelling**, **gaming** and **reading** about personal development.
 - 📚 I am open to learning about **new** and **emerging technologies**.
 - 👨🏻‍💼 Find me on **LinkedIn** [here](https://www.linkedin.com/in/mrshaunlennon/)
