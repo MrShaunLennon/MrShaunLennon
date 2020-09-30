@@ -8,4 +8,4 @@
 - 🗣 I am also available for **freelance** projects and/or **collaborations**
 - 📩 My email address is **shaunlennon1992@gmail.com**
 - 🍣 My favourite cuisine is **Japanese**
-- 🌎 Fun fact: I have been to over **50 countries**
+- 🌎 Fun fact: I have been to over **50 countries**.
