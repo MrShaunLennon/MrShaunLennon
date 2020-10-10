@@ -1,6 +1,6 @@
 ### I'm a Full-Stack Developer based in London, United Kingdom 🇬🇧
 
-- 👨🏻‍💻 **I'm currently looking for a position in London or Berlin**
+- 👨🏻‍💻 **I'm currently looking for a Front End or Full Stack Developer position**
 - 💻 I like to use <code>.jsx</code>, <code>.js</code>, <code>.rb</code>, <code>.html</code>, <code>.css</code>
 - 💡 I like **travelling**, **gaming** and **reading** about personal development.
 - 📚 I am open to learning about **new** and **emerging technologies**.
