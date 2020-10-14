@@ -1,11 +1,11 @@
-### I'm a Full-Stack Developer based in London, United Kingdom 🇬🇧
+### Hello! I'm Shaun, a Web Developer based in London, United Kingdom 🇬🇧
 
-- 👨🏻‍💻 **I'm currently looking for a Front End or Full Stack Developer position**
-- 💻 I like to use <code>.jsx</code>, <code>.js</code>, <code>.rb</code>, <code>.html</code>, <code>.css</code>
-- 💡 I like **travelling**, **gaming** and **reading** about personal development.
-- 📚 I am open to learning about **new** and **emerging technologies**.
+- 👨🏻‍💻 I am a **Full Stack Developer** with a focus on Front End. I especially like working with **React** and the **JavaScript** ecosystem.
+- ♦️ I am very comfortable developing with Back End frameworks such as Ruby on Rails too.
+- 💼 I’m looking to expand my web development knowledge and join a company with a good mentorship culture.
+- 💡 My hobbies include **travelling**, **gaming** and **reading** about personal development.
+- 📚 I am always reading and learning to expand my programming knowledge.
 - 👨🏻‍💼 Find me on **LinkedIn** [here](https://www.linkedin.com/in/mrshaunlennon/)
-- 🗣 I am also available for **freelance** projects and/or **collaborations**
 - 📩 My email address is **shaunlennon1992@gmail.com**
-- 🍣 My favourite cuisine is **Japanese**
-- 🌎 Fun fact: I have been to over **50 countries**.
+- 🗣 I am available for **freelance** projects and/or **collaborations**
+- 🌎 Fun fact: I have been to over **50 countries and love Japanese food**.
