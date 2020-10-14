@@ -1,4 +1,4 @@
-### Hello! I'm Shaun, a Web Developer based in London, United Kingdom 🇬🇧
+### Welcome to my GitHub! I'm Shaun, a Web Developer based in London, United Kingdom 🇬🇧
 
 - 👨🏻‍💻  I am a **Full Stack Developer** with a core passion for **Front End / UI Development**.
 - 💻 I especially like working with **React**  and the **JavaScript** ecosystem, as well as with **Ruby on Rails**.
