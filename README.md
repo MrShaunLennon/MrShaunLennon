@@ -9,4 +9,3 @@
 - 🗣 I am available for **freelance** projects and/or **collaborations**
 - 🌎 Fun fact: I have been to over 50 countries and love Japanese food.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshaunlennon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
