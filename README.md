@@ -1,5 +1,7 @@
 ### Hello! I'm Shaun, a Web Developer based in London, United Kingdom 🇬🇧
 
+![MrShaunLennon's github stats](https://github-readme-stats.vercel.app/api?username=mrshaunlennon&show_icons=true&theme=radical)
+
 - 👨🏻‍💻  I am a **Full Stack Developer** with a personal affinity for **Front End / UI Development**.
 - 💻 I especially like working with **React** and the **JavaScript** ecosystem, as well as **Ruby on Rails**.
 - 💼 I’m looking to expand my web development knowledge and join a company with a good mentorship culture.
