@@ -1,6 +1,6 @@
 ### Hello! I'm Shaun, a Web Developer based in London, United Kingdom 🇬🇧
 
-- 👨🏻‍💻  I am a **Full Stack Developer** with a focus on **Front End / UI Development**.
+- 👨🏻‍💻  I am a **Full Stack Developer** with a passion for **Front End / UI Development**.
 - 💻 I especially like working with **React** and the **JavaScript** ecosystem, as well as **Ruby on Rails**.
 - 💼 I’m looking to expand my web development knowledge and join a company with a good mentorship culture.
 - 💡 My hobbies include **travelling**, **gaming** and **reading** about personal development.
