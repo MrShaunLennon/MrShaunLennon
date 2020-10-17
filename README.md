@@ -1,4 +1,4 @@
-### Welcome to my GitHub! I'm Shaun, a Front-end Developer 🧩
+### Welcome to my GitHub! I'm Shaun, a Front-end Developer ⚡️
 
 - 👨🏻‍💻 - My core technologies include: HTML, CSS/SASS, JavaScript, React and Ruby on Rails.
 - 💼 - I’m looking to expand my web development knowledge and join a company with a good mentorship culture.
